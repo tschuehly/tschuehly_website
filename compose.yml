@@ -1,0 +1,15 @@
+version: "3.9"
+services:
+  frontend:
+    build: .
+    command: [nginx-debug, '-g', 'daemon off;']
+    environment:
+      VIRTUAL_HOST: schuehly-it.de
+      LETSENCRYPT_HOST: schuehly-it.de
+      VIRTUAL_PORT: 80
+    expose:
+      - 80
+networks:
+  default:
+    external:
+      name: root_default
