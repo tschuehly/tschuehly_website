@@ -6,3 +6,5 @@ Freelance Software Developer
 - Spring Boot + Kotlin
 - Docker, Kubernetes and Helm
 - Angular
+
+[github.com/tschuehly](https://www.github.com/tschuehly)

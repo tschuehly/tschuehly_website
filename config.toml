@@ -3,7 +3,6 @@ languageCode = "de"
 theme = "terminal"
 paginate = 5
 
-
 [params]
   # dir name of your main content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
@@ -82,10 +81,10 @@ paginate = 5
       logoHomeLink = "/"
 
     [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
+      #[[languages.en.menu.main]]
+       # identifier = "about"
+        #name = "About"
+        #url = "/about"
   [languages.de]
     languageName = "Deutsch"
     title = "Thomas Schühly"
@@ -103,10 +102,10 @@ paginate = 5
 
     [languages.de.params.logo]
       logoText = "Thomas Schühly"
-      logoHomeLink = "/de/"
+      logoHomeLink = "https://www.schuehly-it.de/de/"
 
     [languages.de.menu]
-      [[languages.en.menu.main]]
+      [[languages.de.menu.main]]
         identifier = "about"
         name = "About"
         url = "/de/about"

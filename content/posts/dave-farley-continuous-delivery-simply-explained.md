@@ -4,17 +4,18 @@ date = "2022-06-11T15:52:36+02:00"
 author = "Thomas Schühly"
 authorTwitter = "tschuehly" #do not include @
 cover = ""
-tags = ["", ""]
+tags = ["devops", "continuousdelivery"]
 keywords = ["", ""]
 description = ""
 showFullContent = false
 readingTime = false
 hideComments = false
-+++
+summary = "This is the transcript from the YouTube Video CONTINUOUS DELIVERY SIMPLY EXPLAINED from Dave Farley’s Channel Continuous Delivery. I think it gives an excellent explanation of Continuous Delivery."
++++ 
 
 This is the transcript from the YouTube Video [CONTINUOUS DELIVERY SIMPLY EXPLAINED](https://www.youtube.com/watch?v=qiDIif7JVMo) from Dave Farley's Channel Continuous Delivery. I think it gives an excellent explanation of Continuous Delivery.
 
-As a non-native it helped tremendously being able to read the transcript to better understand the concepts. I added punctuation and removed spelling errors to improve the readability, I also added Chapters.
+As a non-native english speaker it helped tremendously being able to read the transcript to better understand the concepts. I added punctuation and removed spelling errors to improve the readability, I also added chapters.
 
 # Intro
 Continuous Delivery is probably not quite what you think. It's the most effective approach to software development that we know.
