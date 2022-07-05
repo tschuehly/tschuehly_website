@@ -109,3 +109,7 @@ paginate = 5
         identifier = "about"
         name = "About"
         url = "/de/about"
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+    unsafe = true
