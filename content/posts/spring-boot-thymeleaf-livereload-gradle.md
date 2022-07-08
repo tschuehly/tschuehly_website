@@ -10,6 +10,7 @@ description = ""
 showFullContent = false
 readingTime = false
 hideComments = false
+summary = "I couldn't get Live Reload with Spring Boot and Thymeleaf to work. But I didn't want to use bulky node scripts. So I thought we can use Gradle"
 +++
 
 
